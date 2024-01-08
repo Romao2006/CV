@@ -188,7 +188,10 @@ p.profile-birthdate {
     line-height: 160%;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f0b6ec392c678ab0c155393ec7fc19f1f8551cf4
 @media (min-width: 360px) and (max-width: 680px) {
     .profile-content {
         display: flex;
@@ -198,5 +201,8 @@ p.profile-birthdate {
         flex: 1 0 50%; /* Each item takes up 50% of the container */
     }
 }
+<<<<<<< HEAD
   
   
+=======
+>>>>>>> f0b6ec392c678ab0c155393ec7fc19f1f8551cf4
