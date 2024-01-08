@@ -187,3 +187,13 @@ p.profile-birthdate {
     font-weight: 500;
     line-height: 160%;
 }
+
+@media (min-width: 360px) and (max-width: 680px) {
+    .profile-content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .profile-content > * {
+        flex: 1 0 50%; /* Each item takes up 50% of the container */
+    }
+}
